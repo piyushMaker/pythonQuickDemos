@@ -7,4 +7,4 @@ print(" ")
 
 print(arr3d [:,0,0])  #output [1,4,7]
 
-#array slicing [Front2Back,ToptoBottom,RighttoLeft]
+#array slicing [Front2Back,ToptoBottom,Left2Right]
